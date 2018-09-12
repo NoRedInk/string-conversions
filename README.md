@@ -1,3 +1,7 @@
+> ⚠️ Please use https://github.com/NoRedInk/elm-string-conversions for Elm 0.19
+> and later. Some issue with `elm publish` prevented us from publishing this repo
+> for Elm 0.19 so we just renamed it.
+
 # string-conversions
 
 String conversion functions for Elm. Includes functions for basic types like
